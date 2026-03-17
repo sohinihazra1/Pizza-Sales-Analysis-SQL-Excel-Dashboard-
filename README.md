@@ -23,7 +23,9 @@ All SQL query results have been included as screenshots in this repository for r
 
 📊 Dashboard
 The Excel dashboard provides a visual summary of the analysis with interactive filters and KPI cards.
+## 📊 Dashboard Overview
 
+![Dashboard](dashboard_overview.png)
 📌 Summary
 This project demonstrates a basic end-to-end workflow of data analysis using SQL and Excel, focusing on clarity, structure, and practical understanding of the data.
 
