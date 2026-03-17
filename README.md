@@ -12,6 +12,13 @@ The analysis is structured around a few key metrics and simple trend observation
 - Microsoft SQL Server
 - Microsoft Excel (Pivot Tables, Charts, Slicers)
 
+- 📊 Key KPIs
+Total Revenue
+Average Order Value
+Total Orders
+Total Pizzas Sold
+Average Pizzas per Order
+
 📊 Key Analysis
 - Revenue and order-based KPIs
 - Daily and hourly sales trends
